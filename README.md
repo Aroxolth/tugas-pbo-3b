@@ -1,7 +1,7 @@
 # Latihan PBO: Inheritance dan Polymorphism
 
-**NIM:** (isi NIM kamu)
-**Nama:** (isi nama kamu)
+**NIM:** F1D02510002
+**Nama:** Ariyanta Nugraha Abdullah
 **Mata kuliah:** Pemrograman Berorientasi Objek, Teknik Informatika, Universitas Mataram
 
 ## Struktur Kelas
