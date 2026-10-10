@@ -45,16 +45,16 @@ java Main
 ## Screenshot
 
 ### Menu utama
-![Menu](screenshots/menu.png)
+![Menu](menu.png)
 
 ### Exercise 1 - Bujursangkar
-![Exercise 1](screenshots/exercise1.png)
+![Exercise 1](exercise1.png)
 
 ### Exercise 2 - Lingkaran
-![Exercise 2](screenshots/exercise2.png)
+![Exercise 2](exercise2.png)
 
 ### Exercise 3 - Silinder
-![Exercise 3](screenshots/exercise3.png)
+![Exercise 3](exercise3.png)
 
 ### Polymorphism
-![Polymorphism](screenshots/polymorphism.png)
+![Polymorphism](polymorphism.png)
